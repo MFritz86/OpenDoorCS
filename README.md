@@ -102,21 +102,25 @@ In summary, Opendoor's relatively large foot print provides the firm with a comp
 ## Business Results
 The following table summarizes provides a high level summary of the rapid growth in Opendoor's operations. 
 
-|Year--:|:--Homes Sold--:|:--Revenue----:|:--Adj. EBITDA Margin--:|:---Adj. EBITDA--:|
-|2017--:|:----3,127-----:|:----$0.7 B---:|:--------<8.0%>--------:|:------<$57 M>---:|
-|2018--:|:----7,470-----:|:----$1.8 B---:|:--------<7.1%>--------:|:-----<$131 M>---:|
-|2019--:|:---18,799-----:|:----$4.7 B---:|:--------<4.6%>--------:|:-----<$218 M>---:|
-|2020E-:|:----9,673-----:|:----$2.5 B---:|:--------<5.7%>--------:|:-----<$141 M>---:|
+|Year   |Homes Sold      |Revenue        |Adj. EBITDA Margin |  Adj. EBITDA |    
+|-------|:--------------:|:-------------:|:-----------------:|:------------:|
+|2017   |     3,127      |     $0.7 B    |      <8.0%>       |    <$57 M>   |
+|2018   |     7,470      |     $1.8 B    |      <7.1%>       |   <$131 M>   |
+|2019   |    18,799      |     $4.7 B    |      <4.6%>       |   <$218 M>   |
+|2020E  |     9,673      |     $2.5 B    |      <5.7%>       |   <$141 M>   |
+---
 
 The impact from COVID-19 is evident in 2020 as business operations were significantly disrupted in the second quarter. Opendoor reduced its staff by 35% in response to the sudden decline in business. As of June 2020, market sales were increasing and Opendoor, as well as it competitors, re-commenced buying homes. Operations have since resumed and services addressing customer concerns are being expanded.
 
 The table below reflects Opendoor's projections for the full year 2020 through 2023.  As the company continues to expand its marketshare, it is able convert into more homes sold, increase revenues and improve its operating profit margin.
 
-|Year--:|:--Homes Sold--:|:--Revenue---:|:--Adj. EBITDA Margin--:|:---Adj. EBITDA--:|
-|2020E-:|:----9,673-----:|:----$2.5B---:|:--------<5.7%>--------:|:-----<$141 M>---:|
-|2021P-:|:---13,458-----:|:----$3.5B---:|:--------<5.4%>--------:|:-----<$185 M>---:|
-|2022P-:|:---24,030-----:|:----$6.2B---:|:--------<2.0%>--------:|:-----<$123 M>---:|
-|2023P-:|:---37,689-----:|:----$9.8B---:|:--------<0.1%>--------:|:--------$9 M>---:|
+|Year   |Homes Sold      |Revenue        |Adj. EBITDA Margin |  Adj. EBITDA |    
+|-------|:--------------:|:-------------:|:-----------------:|:------------:|
+|2020E  |     9,673      |     $2.5 B    |      <5.7%>       |   <$141 M>   |
+|2021P  |    13,458      |     $3.5 B    |      <5.4%>       |   <$185 M>   |
+|2022P  |    24,030      |     $6.2 B    |      <2.0%>       |   <$123 M>   |
+|2023P  |    37,689      |     $9.8 B    |      <0.1%>       |    $  9 M    |
+---
 
 ### Long Term Growth Plan
 Opendoor's growth plans include the following objectives:
